@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rschaeper
-- 👀 I’m interested in immunology, structural biology, data visualization and bioinformatics
+- 👀 I’m interested in immunology, structural biology, network science and data visualization
 - 🌱 I’m currently learning Python and JavaScript
 
 <!---

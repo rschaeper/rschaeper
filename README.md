@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rschaeper
 - 👀 I’m interested in immunology, structural biology, network science and data visualization
-- 🌱 I’m currently learning Python and JavaScript
+- 🌱 I’m currently learning Python (especially networkx) and JavaScript (especially sigma.js)
 
 <!---
 rschaeper/rschaeper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
